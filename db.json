@@ -1,5 +1,5 @@
 {
-  "Account": [
+  "Account":
     {
       "Authorize": {
         "IsSuccessful": true,
@@ -7,5 +7,4 @@
         "ErrorMessage": "errorMessage"
       }
     }
-  ]
 }
