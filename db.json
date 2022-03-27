@@ -1,22 +1,9 @@
 {
-  "api": [
-    {
-      "Account": [
-        {
-          "Authorize": {
-            "isSuccessful": true,
-            "Data": "Test",
-            "ErrorMessage": "errorMessage"
-          }
-        }
-      ]
-    },
-    {
-      "testing": {
-          "message": "hello bruh"
-        }
-    }
-  ],
+  "api/Account/Authorize": {
+    "isSuccessful": true,
+    "Data": "Test",
+    "ErrorMessage": "errorMessage"
+  },
   "test": {
     "name": "kireal"
   }
