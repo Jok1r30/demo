@@ -16,5 +16,8 @@
           "message": "hello bruh"
         }
     }
-  ]
+  ],
+  "test": {
+    "name": "kireal"
+  }
 }
