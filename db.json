@@ -1,18 +1,10 @@
 {
-  "api": [
+  "Account": [
     {
-      "Account": [
-        {
-          "Authorize": {
-            "IsSuccessful": true,
-            "Data": "Data",
-            "ErrorMessage": "errorMessage"
-          }
-        }
-      ],
-      "Kireal": {
-        "Name": "Posenka",
-        "Old": "Repozation"
+      "Authorize": {
+        "IsSuccessful": true,
+        "Data": "Data",
+        "ErrorMessage": "errorMessage"
       }
     }
   ]
