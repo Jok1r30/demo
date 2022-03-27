@@ -9,7 +9,11 @@
             "ErrorMessage": "errorMessage"
           }
         }
-      ]
+      ],
+      "Kireal": {
+        "Name": "Posenka",
+        "Old": "Repozation"
+      }
     }
   ]
 }
